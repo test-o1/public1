@@ -6,7 +6,7 @@ namespace NugetLibrary
     {
         public string GetAssemblyVersion()
         {
-            return GetType().Assembly.GetName().Version.ToString();
+            return $"v{GetType().Assembly.GetName().Version.ToString()}";
         }
     }
 }
