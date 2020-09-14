@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetTest", "NugetTest\Nuge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetLibrary", "NugetLibrary\NugetLibrary.csproj", "{91593FC3-3FD3-46BF-BE3A-CE999B9225C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlpTest2", "AlpTest2\AlpTest2.csproj", "{1342DCCC-FFC0-4252-B6D6-E68CBFBF1013}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{91593FC3-3FD3-46BF-BE3A-CE999B9225C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91593FC3-3FD3-46BF-BE3A-CE999B9225C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91593FC3-3FD3-46BF-BE3A-CE999B9225C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1342DCCC-FFC0-4252-B6D6-E68CBFBF1013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1342DCCC-FFC0-4252-B6D6-E68CBFBF1013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1342DCCC-FFC0-4252-B6D6-E68CBFBF1013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1342DCCC-FFC0-4252-B6D6-E68CBFBF1013}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
