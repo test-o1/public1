@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
-        <PackageVersion>1.0.1</PackageVersion>
+        <VersionPrefix>0.0.1-preview1</VersionPrefix>
     </PropertyGroup>
 
 </Project>
