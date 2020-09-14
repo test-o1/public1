@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetTest", "NugetTest.csproj", "{BC40F6A0-8EF3-41D8-A0C2-C529B7A842E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetTest", "NugetTest\NugetTest.csproj", "{BC40F6A0-8EF3-41D8-A0C2-C529B7A842E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetLibrary", "..\NugetLibrary\NugetLibrary.csproj", "{91593FC3-3FD3-46BF-BE3A-CE999B9225C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetLibrary", "NugetLibrary\NugetLibrary.csproj", "{91593FC3-3FD3-46BF-BE3A-CE999B9225C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
